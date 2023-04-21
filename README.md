@@ -1,6 +1,5 @@
 # Realtime Twitter Sentiment Analysis - NLP
 
-**Complete Video Tutorial:** https://youtu.be/26ZSHmUoBeM
 
 **Twitter Developer Account:** https://developer.twitter.com/en/portal/dashboard
 
